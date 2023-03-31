@@ -2,7 +2,7 @@
 This is Java program that convert text into alternating case with a GUI.
 
 ## How to use:
-Download the [source code](https://github.com/Austin-Daigle/Austin-Daigle/blob/main/MyPanel.java), compile and execute and a GUI will appear. 
+Download the [source code](https://github.com/Austin-Daigle/Alternating-Text-Converter/blob/main/MyPanel.java), compile and execute and a GUI will appear. 
 
 Once the GUI appears, insert the desired text to convert into the "user input" textbox, then click the "convert" JButton and the input will be converted to alternating case into the "converted output" textbox.
 
